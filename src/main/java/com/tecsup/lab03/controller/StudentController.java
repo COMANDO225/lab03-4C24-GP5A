@@ -5,7 +5,7 @@ public class StudentController {
 	public String apellido;
 	public String cadena;
 	
-	public  String concatena() {
+	public  String responsable() {
 		nombre = "Anderson";
 		apellido = "Almeyda";
 		cadena = nombre+cadena;
