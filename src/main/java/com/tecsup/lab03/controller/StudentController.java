@@ -6,7 +6,7 @@ public class StudentController {
 	public String cadena;
 	
 	public  String responsable() {
-		nombre = "Anderson";
+		nombre = "Anderson Pusheado";
 		apellido = "Almeyda Torres";
 		cadena = nombre+cadena;
 		return cadena;
