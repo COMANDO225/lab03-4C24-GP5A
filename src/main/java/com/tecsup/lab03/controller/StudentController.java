@@ -11,6 +11,12 @@ public class StudentController {
 		cadena = nombre+cadena;
 		return cadena;
 	}
+	public  String colaborador() {
+		nombre = "Denzel";
+		apellido = "Zuniga";
+		cadena = nombre+cadena;
+		return cadena;
+	}
 }
 
 
